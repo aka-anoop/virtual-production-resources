@@ -39,6 +39,7 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 
 ## Articles
 * [The Virtual Production of The Mandalorian, Season One](https://www.youtube.com/watch?v=gUnxzVOs3rk)
+* [Behind the Scenes with UE4’s Next-Gen Virtual Production Tools](https://www.youtube.com/watch?v=Hjb-AqMD-a4)
 * [Unreal Engine Virtual Production](https://www.unrealengine.com/en-US/programs/virtual-production)
 * [Unity for Film: Real-time cinematic technology at SIGGRAPH 2018](https://blogs.unity3d.com/2018/08/13/unity-for-film-real-time-cinematic-technology-at-siggraph-2018/)
 * [Virtual Production at Zoic Studios](https://www.fxphd.com/blog/virtual-production-at-zoic-studios/)
