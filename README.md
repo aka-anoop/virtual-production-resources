@@ -20,6 +20,8 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 * [Solid anim](https://www.solidanim.com/en/virtual-production/)
 * [Fox VFX Lab](https://www.foxvfxlab.com/)
 * [On Set Facilities](https://www.onsetfacilities.com/on-set-facilities/)
+* [Profile Studios](https://www.profilestudios.com/)
+* [Lux Machina](https://www.luxmc.com)
 
 ## Proprietary Tools
 * [ZEUS](https://www.zoicstudios.com/zoic-environmental-unification-system-zeus/)
@@ -33,8 +35,10 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 
 ## Hardware
 * [ROKOKO Virtual Production](https://www.rokoko.com/en/products/virtual-production)
+* [Fuse LED](https://fuse-tg.com/projects/tv+%26+film)
 
 ## Articles
+* [The Virtual Production of The Mandalorian, Season One](https://www.youtube.com/watch?v=gUnxzVOs3rk)
 * [Unreal Engine Virtual Production](https://www.unrealengine.com/en-US/programs/virtual-production)
 * [Unity for Film: Real-time cinematic technology at SIGGRAPH 2018](https://blogs.unity3d.com/2018/08/13/unity-for-film-real-time-cinematic-technology-at-siggraph-2018/)
 * [Virtual Production at Zoic Studios](https://www.fxphd.com/blog/virtual-production-at-zoic-studios/)
