@@ -28,6 +28,7 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 * [StageCraft](https://www.ilm.com/hatsrabbits/ilm-stagecraft/)
 * [Genesis](https://www.mpc-rnd.com/technology/genesis/)
 * [Mill Mascot](https://vimeo.com/325707868)
+* [Cubic Motion Persona](https://cubicmotion.com/persona/)
 
 ## Open Source Tools
 * [VPET](https://github.com/FilmakademieRnd/VPET)
