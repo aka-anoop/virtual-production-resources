@@ -37,8 +37,14 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 ## Hardware
 * [ROKOKO Virtual Production](https://www.rokoko.com/en/products/virtual-production)
 * [Fuse LED](https://fuse-tg.com/projects/tv+%26+film)
+* [Tentacle Sync](https://tentaclesync.com/)
+* [Monogram Creative Console](https://store.monogramcc.com/)
+* [Nodo Intertia Wheels](https://nodo.film/)
+* [Vanishing Point Vector](https://www.vanishingpoint.xyz/vector)
 
 ## Articles
+* [Art of LED Wall Virtual Production - I](https://www.fxguide.com/fxfeatured/art-of-led-wall-virtual-production-part-one-lessons-from-the-mandalorian/)
+* [Art of LED Wall Virtual Production - II](https://www.fxguide.com/fxfeatured/art-of-led-wall-virtual-production-sets-part-two-how-you-make-one/)
 * [The Virtual Production of The Mandalorian, Season One](https://www.youtube.com/watch?v=gUnxzVOs3rk)
 * [Behind the Scenes with UE4’s Next-Gen Virtual Production Tools](https://www.youtube.com/watch?v=Hjb-AqMD-a4)
 * [Unreal Engine Virtual Production](https://www.unrealengine.com/en-US/programs/virtual-production)
