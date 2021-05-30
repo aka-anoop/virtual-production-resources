@@ -13,6 +13,7 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 * [Previzion](http://www.lightcrafttech.com/overview/)
 * [Glassbox Dragonfly](http://glassboxtech.com/products/dragonfly#overview)
 * [IKINEMA LiveAction](https://ikinema.com/virtual-production)
+* [Disguise](https://www.disguise.one/en/products/)
 
 ## Commercial Services
 * [Take4D](http://take4d.com/services-and-rentals/on-set-visualisation/)
@@ -22,6 +23,7 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 * [On Set Facilities](https://www.onsetfacilities.com/on-set-facilities/)
 * [Profile Studios](https://www.profilestudios.com/)
 * [Lux Machina](https://www.luxmc.com)
+* [DNEG Virtual Production](https://www.dneg.com/virtual-production/)
 
 ## Proprietary Tools
 * [ZEUS](https://www.zoicstudios.com/zoic-environmental-unification-system-zeus/)
@@ -54,6 +56,7 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 * [Technicolor Genesis Virtual Production Platform](https://ascmag.com/articles/technicolor-genesis-virtual-production-platform)
 * [Dreamspace: A platform and tools for collaborative virtual production](https://www.ibc.org/production/dreamspace-a-platform-and-tools-for-collaborative-virtual-production/842.article)
 * [Vanishing Point's Vector for Virtual Production](https://www.fxguide.com/featured/vanishing-points-vector-for-virtual-production/)
+* [What is Virtual Production - by CG Spectrum](https://www.cgspectrum.com/blog/what-is-virtual-production)
 
 ## Guides
 * [Virtual Production Field Guide Volume 1](https://cdn2.unrealengine.com/vp-field-guide-v1-3-01-f0bce45b6319.pdf)
