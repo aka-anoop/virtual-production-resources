@@ -55,6 +55,10 @@ Collection of Software/Hardware and Workflows related to Virtual Production
 * [Dreamspace: A platform and tools for collaborative virtual production](https://www.ibc.org/production/dreamspace-a-platform-and-tools-for-collaborative-virtual-production/842.article)
 * [Vanishing Point's Vector for Virtual Production](https://www.fxguide.com/featured/vanishing-points-vector-for-virtual-production/)
 
+## Guides
+* [Virtual Production Field Guide Volume 1](https://cdn2.unrealengine.com/vp-field-guide-v1-3-01-f0bce45b6319.pdf)
+* [Virtual Production Field Guide Volume 2](https://cdn2.unrealengine.com/Virtual+Production+Field+Guide+Volume+2+v1.0-5b06b62cbc5f.pdf)
+
 ## Thesis Papers 
 * [Virtual Production (Possibilities and Limitations of Virtual Production Environments Optimization through Implementation of Innovative Interfaces)](https://www.hdm-stuttgart.de/vfx/alumni/bamathesis/pdf_010/)
 * [Virtual Cinematography: Beyond Big Studio Production](http://girishbalakrishnan.com/vault/GirishBalakrishnan_MastersThesis.pdf)
